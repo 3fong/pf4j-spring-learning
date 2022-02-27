@@ -3,6 +3,17 @@
 
 ## Starting
 
+### ide run 
+
+add VM options:
+
+```
+-Dpf4j.mode=development
+```
+
+
+### cmd run
+
 * init (starting test database)
 
 ```code
